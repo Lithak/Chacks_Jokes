@@ -1,4 +1,4 @@
-altgraph==0.17
+paltgraph==0.17
 appdirs==1.4.3
 apturl==0.5.2
 asgiref==3.3.0
